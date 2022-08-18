@@ -39,3 +39,12 @@
 - form (label)
 - role
 - aria-label
+
+## Some important extensions
+
+- Live server
+- Preview in web server
+- Auto rename tag
+- HTML end tag labels
+- Indent rainbow
+- icon Fonts
