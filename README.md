@@ -8,6 +8,7 @@
   - pair tag, container tag
   - empty tag
 - basic structure of HTML
+- How to inspect elements on Browser
 - Inside head tag
 - validation for html file
 - Comments
