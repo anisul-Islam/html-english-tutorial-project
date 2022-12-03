@@ -5,11 +5,11 @@
 - What is HTML? why do we need HTML?
 - Tag, element, attribute
 - Types of tag
-  - pair tag, container tag
-  - empty tag
+  - pair tag / container tag
+  - unpair tag / empty tag
 - basic structure of HTML
 - How to inspect elements on Browser
-- Inside head tag
+- Inside head tag - set title, linking css, linking Javascript, add meta tags for SEO
 - validation for html file
 - Comments
 
@@ -18,7 +18,7 @@
 - Headings, Horizontal rule, line break
 - Paragraph
 - Text formatting tags - strong, em, mark, sup, sub
-- Entity, symbol, icons
+- Entity, symbol, icons - Add Font awesome icons
 
 ## Chapter 3: List, Link, Images, frames, Media
 
